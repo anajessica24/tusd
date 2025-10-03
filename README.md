@@ -55,13 +55,5 @@ jupyter notebook
 
 ---
 
-## Dependências
 
-- Python >= 3.8  
-- Pandas  
-- Matplotlib  
 
-Instalação via pip:
-
-```bash
-pip install pandas matplotlib
