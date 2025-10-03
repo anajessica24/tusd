@@ -52,8 +52,3 @@ Acesso:
 
 ```bash
 jupyter notebook
-
----
-
-
-
