@@ -42,14 +42,16 @@ Contém os dados de tarifas, incluindo:
 
 ### Script Python: `analise02.py`
 
-Responsável por:
+Acesso aos dados 
 
-- Ler o arquivo CSV (tratando diferentes codificações UTF-8 e Latin1)  
-- Converter a coluna `VlrTUSD` para valores numéricos  
-- Filtrar os dados do subgrupo B4 da ENERGISA  
-- Agrupar os dados por ano de início de vigência  
-- Calcular **média, mínimo e máximo** das tarifas por ano  
-- Plotar a evolução anual das tarifas  
+### Jupyter Notebook: `jupyter.ipynb`
+
+Criação do gráfico
+
+Acesso:
+
+```bash
+jupyter notebook
 
 ---
 
